@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-16 19:55:10</sys_created_on>
+        <sys_id>c95f02bf93530210410470718bba10fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1411643_spcr_p_0_cx_interaction.x_1411643_spcr_p_0.maintenance</sys_name>
+        <sys_package display_value="SPCR PR Contact" source="x_1411643_spcr_p_0">b7f64ef393530210410470718bba10bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SPCR PR Contact">b7f64ef393530210410470718bba10bf</sys_scope>
+        <sys_security_acl display_value="x_1411643_spcr_p_0_cx_interaction">c55f02bf93530210410470718bba10ae</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c95f02bf93530210410470718bba10fb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-16 19:55:10</sys_updated_on>
+        <sys_user_role display_value="x_1411643_spcr_p_0.maintenance" name="x_1411643_spcr_p_0.maintenance">48078ef393530210410470718bba1000</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1411643_spcr_p_0.non_law_enforcement_user" name="x_1411643_spcr_p_0.non_law_enforcement_user">44078ef393530210410470718bba1003</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-16 19:18:48</sys_created_on>
+        <sys_id>40078ef393530210410470718bba1004</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>44078ef393530210410470718bba1003</sys_name>
+        <sys_package display_value="SPCR PR Contact" source="x_1411643_spcr_p_0">b7f64ef393530210410470718bba10bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SPCR PR Contact">b7f64ef393530210410470718bba10bf</sys_scope>
+        <sys_update_name>sys_embedded_help_role_40078ef393530210410470718bba1004</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-16 19:18:48</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
